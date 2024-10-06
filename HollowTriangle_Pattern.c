@@ -1,5 +1,20 @@
+/*
+Output-
+
+         * 
+
+       *   * 
+
+     *       * 
+
+   *           * 
+
+ * * * * * * * * * 
+
+*/
+
 #include <stdio.h>
-void main()
+int main()
 {
     for (int i = 0; i <5; i++) 
      {
@@ -20,5 +35,4 @@ void main()
         }
         printf("\n");
     }
-    return 0;
 }
