@@ -8,7 +8,7 @@ The pattern we wish to create using this code is :
 * * * * *
 
 */
-
+#include<stdio.h>
 int main()
 {
     int rows = 5;
