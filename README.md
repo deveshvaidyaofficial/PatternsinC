@@ -1,4 +1,4 @@
-# Patterns-problems-in-C
+# Patterns in C 
 
 Patterns have always facinated humans..mankind's love for patterns has entered the world of programming now...
 
