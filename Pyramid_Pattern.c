@@ -15,3 +15,11 @@ int main() {
     pyramid_pattern(n);
     return 0;
 }
+
+
+// Output :
+//     * 
+//    * * 
+//   * * * 
+//  * * * * 
+// * * * * *
