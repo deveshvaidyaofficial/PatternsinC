@@ -36,3 +36,18 @@ int main() {
     printHollowDiamond(n);
     return 0;
 }
+
+/*
+for n = 5 
+
+    *
+   * *
+  *   *
+ *     *
+*       *
+ *     *
+  *   *
+   * *
+    *
+
+*/
