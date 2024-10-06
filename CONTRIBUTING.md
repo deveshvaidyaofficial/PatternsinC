@@ -2,7 +2,8 @@
 Thank you for your interest in contributing to PatternsinC💡. We appreciate all forms of contributions, whether it's bug reports, feature requests, improving documentation, or any other helpful enhancements. Your involvement helps us grow! 🚀
 ## 🛠️ How to Contribute 🛠️
 
-### Star the repo 
+### Show your love toawards open source ⭐ Star the repo ⭐ and follow @deveshvaidyaofficial 😁
+
 ### 1.🍴 Fork the Repository 🍴
 - Click the **Fork** button at the top-right of this page to create your own copy of the repository.
 ### 2.🖥️ Clone the Repository 🖥️
@@ -20,10 +21,24 @@ Thank you for your interest in contributing to PatternsinC💡. We appreciate al
 ### 4.📦 Commit Changes 📦
 
 - Once you've made your changes, commit them:
-
     ```bash
     git add .
     git commit -m "Describe your changes"
     ```
+
+### 5. Push Changes 🚀
+
+- Push your changes to your fork:
+
+    ```bash
+    git push origin main
+    ```
+
+### 6. Open a Pull Request 🎯
+
+- Once your changes are pushed, go to the **Pull Requests** section in the original repository.
+- Click on **New Pull Request**.
+- Choose the main branch in your fork and submit your pull request for review.
+
 
 
