@@ -7,10 +7,10 @@ Welcome to the world of Patterns, all written in C! This project is a curated co
 
 Our current contributors:
 
-- **[Devesh Vaidya]** - Maintainer
-- **[Vidhwath]**
-- **[Asmi1108]**
-- **[Contri-3]**
+- **[Devesh]** - Maintainer
+- **[Vidvath]**
+- **[Asmi]**
+- **[Aadish]**
 
 Your contributions are welcome! Feel free to reach out!
 
