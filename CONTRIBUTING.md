@@ -10,7 +10,7 @@ Thank you for your interest in contributing to PatternsinC💡. We appreciate al
 - Clone your fork to your local machine using:
 
     ```bash
-    git clone https://github.com/deveshvaidyaofficial/PatternsinC.git
+    git clone https://github.com/<your-username>/PatternsinC.git
     ```
 
 ### 3.✏️ Make Changes ✏️
@@ -31,7 +31,7 @@ Thank you for your interest in contributing to PatternsinC💡. We appreciate al
 - Push your changes to your fork:
 
     ```bash
-    git push origin main
+    git push origin <your-branch-name>
     ```
 
 ### 6. Open a Pull Request 🎯
