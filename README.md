@@ -8,18 +8,26 @@ This Hacktoberfest, embark on a journey with us as we compile and bring together
 The **Patterns in C** project is a community-driven initiative to create a collection of pattern problems and their solutions in C. Patterns are a great way to practice and master control structures like loops, conditionals, and recursion. 
 
 Our goal is to cover all possible pattern problems and solutions, making this repository a go-to resource for beginners and developers looking for practice or inspiration.
-# 🎯 Goals of the Project
+# 🎯 Goals of the Project 🎯
 
 - **Comprehensive Collection**: Create and solve all kinds of pattern problems in C, ranging from simple to complex.
 - **Community Collaboration**: Bring together developers to collaborate, learn, and contribute to open-source during Hacktoberfest and beyond.
 - **Learning Resource**: Serve as a resource for beginners to learn, practice, and hone their programming skills through pattern-based problems.
-# Hacktoberfest 2024
+# 🐧 Hacktoberfest 2024 🐧
 
 This repository is participating in **Hacktoberfest 2024**! Hacktoberfest is a month-long celebration of open source software, encouraging developers to contribute to projects like ours. Whether you're new to open source or a seasoned pro, there are plenty of ways to get involved.
+
+## 🏅 Contributors 🏅
+
+Thanks to these amazing contributors who have helped make this repository better!
+
+[![Contributors](https://contrib.rocks/image?repo=deveshvaidyaofficial/patternsinc)](https://github.com/deveshvaidyaofficial/patternsinc/graphs/contributors)
+
+### Just like them..its time for you to make a contribution! Let’s continue contributing to open source and make this Hacktoberfest a success! 🙌
 
 # 📝 License 📝
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
- 🎨 Happy coding and pattern-making!  🎨
+ ### 🎨 Happy coding and pattern-making! 🎨
