@@ -1,4 +1,5 @@
 # 🌟 Patterns in C 🌟
+# THE HACTOBER FEST REPO
 Patterns have always fascinated humans, and mankind's love for them has seamlessly entered the world of programming. From simple triangles to complex structures, patterns help us explore the power of loops, recursion, and logical thinking in coding.
 
 This Hacktoberfest, embark on a journey with us as we compile and bring together codes for all possible pattern problems in C. Whether you're a beginner or a seasoned coder, this project will challenge your creativity and logic as we aim to build a comprehensive repository of pattern-related problems.
